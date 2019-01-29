@@ -26,3 +26,5 @@
 
 ## Open roles
 * [Research Scientist](jd-rs-kr.md)
+* [Research Engineer](jd-re-kr.md)
+* [Research Resident](jd-rr-kr.md)
