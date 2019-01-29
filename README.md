@@ -21,4 +21,4 @@
   * contact@kc-ml2.com
 
 ## Open positions
-* [Research Scientist](jd-rs.md)
+* [Research Scientist](jd-rs-kr.md)
