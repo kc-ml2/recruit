@@ -1,14 +1,13 @@
-# Research Engineer 
+# Research Resident (Internship) 
 ## Job Title
-* Research Engineer
+* Research Resident (Internship)
 ## 주요 업무
-* 최신 머신러닝/딥러닝 연구를 위한 오픈소스 프레임워크 기반 개발
-* 머신러닝/딥러닝 연구개발을 위한 시스템 관리 (DevOps)
-* 다양한 대외활동을 통한 연구개발 저변 확대
+* 최신 머신러닝 연구 결과를 이해하고 구성원들에게 세미나 형식으로 공유
+* 최신 머신러닝 연구논문의 모델 및 실험을 재구현
 ## 경력여부
-* 경력
+* 인턴, 신입, 경력
 ## 연봉
-* 5,000 - 10,000 만원 (협의 가능)
+* 3,500 - 6,000 만원 (협의 가능)
 ## 채용상세
 * ML2를 함께 키워나갈 분을 찾습니다.
 * ML2 소개
@@ -23,10 +22,10 @@
       * https://www.kc-ml2.com/
     * 카카오 AI 리포트
       * https://brunch.co.kr/@kakao-it/296
+* 최소 3개월, 최대 1년의 기간 후 Research Scientist/Engineer로의 전환을 목표로 함
 * 자격요건
-  * 대규모 오픈소스 프로젝트 개발 경험
-  * TensorFlow, PyTorch와 같은 플랫폼을 이용한 머신러닝 모델 개발 경험
-  * 머신러닝 관련 연구논문을 읽고 이해하여 해당 모델의 구현이 가능하신 분
+  * 학술 연구 참여 경험
+  * 머신러닝 모델 개발 경험
   * Python 을 이용한 프로그래밍 경험
   * Git을 이용한 프로젝트 관리 경험
   * 자료 읽기 및 작성, 대화, 발표가 가능한 수준의 영어 사용 능력
@@ -53,7 +52,8 @@
   * 지원자에 한해 이력서 상 기재된 e-mail 로 take-home 프로젝트 과제 전달  
   * 일주일 이내 contact@kc-ml2.com로 제출
   * Take-home 프로젝트 내용
-    * 논문 리뷰 및 구현
+    * 데이터 챌린지
+    * 논문 리뷰 및 발표자료 작성
     * 개인 포트폴리오 작성
   * 방문 면접
     * Take-home 프로젝트 발표
@@ -63,7 +63,7 @@
 * 외국어
   * 한국어, 영어
 * 활동 분야 기술
-  * Python, Tensorflow, PyTorch, scikit-learn, Git, Amazon AWS, Node.js, D3.js, Docker, Django, nginx
+  * Git, Python, Tensorflow, PyTorch, scikit-learn
 * 지원자 요청 자료
   * 휴대전화번호, 포트폴리오, 희망연봉
 * 지원서 수신 이메일
