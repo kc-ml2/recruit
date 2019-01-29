@@ -1,3 +1,7 @@
+![ML2 Logo](logo/PNG/logo_full.png)
+
+[한글](README.md) | English
+---
 # ML2 is looking for new members!
 ## About ML2
 * ML2 is an independent research organization within a semiconductor and display solutions company KC.
