@@ -23,7 +23,7 @@
 * Python 을 이용한 프로그래밍 경험
 * Git을 이용한 프로젝트 관리 경험
 * 자료 읽기 및 작성, 대화, 발표가 가능한 수준의 영어 사용 능력
-### Research Scientist
+### [Research Scientist](jd-rs-kr.md)
 * 5천만원 ~ 1억원 (협의 가능)
 * 주요업무
   * 최신 머신러닝/딥러닝 연구를 통한 학술논문 출판
@@ -36,7 +36,7 @@
 * 우대사항
   * 자기 주도적인 연구활동을 원하시는 분
   * 머신러닝 관련분야 연구논문 및 NIPS, ICML, ICLR 등의 학회논문의 저자
-### Research Engineer
+### [Research Engineer](jd-re-kr.md)
 * 5천만원 ~ 1억원 (협의 가능)
 * 주요업무
   * 최신 머신러닝/딥러닝 연구를 위한 오픈소스 프레임워크를 이용한 소프트웨어 개발
@@ -51,7 +51,7 @@
   * TensorFlow, PyTorch, scikit-learn 등의 머신러닝 플랫폼을 포함한 대규모 오픈소스 라이브러리 개발에 기여하신분
   * Interactive web front-end 및 시각화 개발 경험이 있으신 분
   * AWS등의 클라우드 컴퓨팅 DevOps 경험이 있으신 분
-### Research Resident (Internship)
+### [Research Resident](jd-rr-kr.md)
 * 3,500만원 - 6,000만원 (협의 가능)
 * 최소 3개월, 최대 1년의 기간 후 Research Scientist/Engineer로의 전환을 목표로 함
 * 주요업무
@@ -81,4 +81,3 @@
 * 방문 면접
   * Take-home 프로젝트 발표
   * 기술 면접
-
