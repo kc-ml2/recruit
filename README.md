@@ -24,5 +24,5 @@
 * 지원서 수신 이메일
   * contact@kc-ml2.com
 
-## Open positions
+## Open roles
 * [Research Scientist](jd-rs-kr.md)
