@@ -58,25 +58,25 @@ Comfortable with formulating mathematical ideas into computer programs.
   * Can work for least 3 months at ML2.
   * Experience in academic research.
   * Experience in implementing machine learning models.
-  * Especially interested in if you have an expertise in any of
-    * graph theory
-    * hardware design
-    * design automation and computer-aided design
-    * compiler design
-    * system programming
-    * theoretical computer science
-    * computer and network security
-* Perks
-  * High-end laptop or desktop of personal choice
-  * Financial support for educational activities including conference, classes, meetups.
-  * Flexible work hour
-  * Free food, snacks, coffee
-* Hiring process
-  * Send your CV or resume to contact@kc-ml2.com.
-  * Take-home project
-    * Review, re-implement, and reproduce a research paper from a list of selected topics. 
-    * Prepare a portfolio presentation
-  * On-site interview
-    * Presentation of the take-home project
-    * Technical interview
+## Especially interested in if you have an expertise in any of
+* graph theory
+* hardware design
+* design automation and computer-aided design
+* compiler design
+* system programming
+* theoretical computer science
+* computer and network security
+## Perks
+* High-end laptop or desktop of personal choice
+* Financial support for educational activities including conference, classes, meetups.
+* Flexible work hour
+* Free food, snacks, coffee
+## Hiring process
+* Send your CV or resume to contact@kc-ml2.com.
+* Take-home project
+  * Review, re-implement, and reproduce a research paper from a list of selected topics. 
+  * Prepare a portfolio presentation
+* On-site interview
+  * Presentation of the take-home project
+  * Technical interview
 
