@@ -1,7 +1,7 @@
 ![ML2 Logo](logo/PNG/logo_full.png)
 
-[English](README_en.md)
-
+한글 | [English](README_en.md)
+---
 ## 채용상세
 * ML2를 함께 키워나갈 분을 찾습니다.
 * ML2 소개
@@ -24,5 +24,5 @@
 * 지원서 수신 이메일
   * contact@kc-ml2.com
 
-## Open positions
+## Open roles
 * [Research Scientist](jd-rs-kr.md)
