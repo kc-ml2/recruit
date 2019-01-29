@@ -37,7 +37,7 @@ Comfortable with formulating mathematical ideas into computer programs.
 * Preferred qualification
   * Track record of self-motivated, independent, and collaborative academic research.
   * Publications in academic journals and conferences in machine learning including NIPS, ICML, and ICLR.
-## Research Engineer
+### Research Engineer
 * KRW 50M ~ 100M (negotiable)
 * What you'll do
   * Research software development based on open-source machine learning frameworks.
@@ -52,7 +52,7 @@ Comfortable with formulating mathematical ideas into computer programs.
   * Contributions to large-scale open-source projects, especially to machine learning frameworks such as TensorFlow, Pytorch, or scikit-learn.
   * Experience in developing interactive web frontend and visualization.
   * DevOps experience with cloud computing such as AWS.
-## Research Resident (Internship)
+### Research Resident (Internship)
 * KRW 35M ~ 60M (negotiable)
 * Eligible to make a transition to a full-time research scientist/engineer position after 1 year or earlier when qualified.
 * What you'll do
