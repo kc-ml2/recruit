@@ -35,10 +35,8 @@
     * building baselines
     * multi-GPU distributed training
     * developing and maintaining DevOps tools such as loggers and Tensorboard-like monitors. 
-    
 * 자격요건
   * TensorFlow, PyTorch와 같은 플랫폼을 이용한 머신러닝 모델 개발 경험
-  
 * 우대사항
   * 자기 주도적인 소프트웨어 개발 활동을 원하시는 분
   * 머신러닝 관련 연구논문을 읽고 이해하여 해당 모델의 구현이 가능하신 분
