@@ -56,7 +56,7 @@
   * 학술 연구 참여 경험
   * 머신러닝 모델 개발 경험
   
-### [Research Scientist/Engineer](README.md#research-scientist-engineer)
+### [Research Scientist/Engineer](README.md#research-scientistengineer)
 * 5천만원 ~ 1억원 (협의 가능)
 * 주요업무
   * 최신 머신러닝/딥러닝 연구 및 개발
