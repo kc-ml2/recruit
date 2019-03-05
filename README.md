@@ -23,6 +23,39 @@
 * Python 을 이용한 프로그래밍 경험
 * Git을 이용한 프로젝트 관리 경험
 * 자료 읽기 및 작성, 대화, 발표가 가능한 수준의 영어 사용 능력
+
+### [Software Engineer]
+* 5천만원 ~ 1억원 (협의 가능)
+* 주요업무
+  * 최신 머신러닝/딥러닝 연구를 위한 오픈소스 프레임워크를 이용한 소프트웨어 개발
+  * 머신러닝/딥러닝 연구개발을 위한 시스템 관리 (DevOps)
+    * dataset pipelining
+    * docker distribution for simultaneous, large-scale model training
+    * automatic management of training queues
+    * building baselines
+    * multi-GPU distributed training
+    * developing and maintaining DevOps tools such as loggers and Tensorboard-like monitors. 
+    
+* 자격요건
+  * TensorFlow, PyTorch와 같은 플랫폼을 이용한 머신러닝 모델 개발 경험
+  
+* 우대사항
+  * 자기 주도적인 소프트웨어 개발 활동을 원하시는 분
+  * 머신러닝 관련 연구논문을 읽고 이해하여 해당 모델의 구현이 가능하신 분
+  * TensorFlow, PyTorch, scikit-learn 등의 머신러닝 플랫폼을 포함한 대규모 오픈소스 라이브러리 개발에 기여하신분
+  * Interactive web front-end 및 시각화 개발 경험이 있으신 분
+  * AWS등의 클라우드 컴퓨팅 DevOps 경험이 있으신 분
+  
+### [Internship]
+* 3,500만원 - 6,000만원 (협의 가능)
+* 3개월의 인턴쉽 종료 후 인터뷰를 통해 정직원으로 ML2에 합류할 수 있습니다. 
+* 주요업무
+  * 최신 머신러닝 연구 결과를 이해하고 구성원들에게 세미나 형식으로 공유
+  * 최신 머신러닝 연구논문의 모델 및 실험을 재구현
+* 자격요건
+  * 학술 연구 참여 경험
+  * 머신러닝 모델 개발 경험
+  
 ### [Research Scientist](jd-rs-kr.md)
 * 5천만원 ~ 1억원 (협의 가능)
 * 주요업무
@@ -51,15 +84,15 @@
   * TensorFlow, PyTorch, scikit-learn 등의 머신러닝 플랫폼을 포함한 대규모 오픈소스 라이브러리 개발에 기여하신분
   * Interactive web front-end 및 시각화 개발 경험이 있으신 분
   * AWS등의 클라우드 컴퓨팅 DevOps 경험이 있으신 분
+
 ### [Research Resident](jd-rr-kr.md)
 * 3,500만원 - 6,000만원 (협의 가능)
 * 최소 3개월, 최대 1년의 기간 후 Research Scientist/Engineer로의 전환을 목표로 함
 * 주요업무
-  * 최신 머신러닝 연구 결과를 이해하고 구성원들에게 세미나 형식으로 공유
-  * 최신 머신러닝 연구논문의 모델 및 실험을 재구현
+  * Research Scientist/Engineer와 동일
 * 자격요건
-  * 학술 연구 참여 경험
-  * 머신러닝 모델 개발 경험
+  * 머신러닝/딥러닝 관련 연구개발 참여 경험
+  
 ### 다음과 같은 분야에 전문 지식이 있는 분을 모십니다
 * graph theory
 * hardware design
