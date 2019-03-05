@@ -18,11 +18,23 @@
       * https://www.kc-ml2.com/
     * 카카오 AI 리포트 
       * https://brunch.co.kr/@kakao-it/296
+      
 ## 채용분야
-### 모든 분야 자격요건
-* Python 을 이용한 프로그래밍 경험
-* Git을 이용한 프로젝트 관리 경험
-* 자료 읽기 및 작성, 대화, 발표가 가능한 수준의 영어 사용 능력
+
+### 모든 분야 공통사항
+* 자격요건
+  * Python 을 이용한 프로그래밍 경험
+  * Git을 이용한 프로젝트 관리 경험
+  * 자료 읽기 및 작성, 대화, 발표가 가능한 수준의 영어 사용 능력
+
+* 다음과 같은 분야에 전문 지식이 있는 분을 모십니다
+  * compiler design
+  * system programming
+  * hardware design
+  * design automation and computer-aided design
+  * computer and network security
+  * theoretical computer science
+  * graph theory
 
 ### [Software Engineer](README.md#software-engineer)
 * 5천만원 ~ 1억원 (협의 가능)
@@ -83,15 +95,6 @@
 * 자격요건
   * 머신러닝/딥러닝 관련 연구개발 참여 경험
   
-### 다음과 같은 분야에 전문 지식이 있는 분을 모십니다
-* graph theory
-* hardware design
-* design automation and computer-aided design
-* compiler design
-* system programming
-* theoretical computer science
-* computer and network security
-
 ## 지원 및 혜택
 * 최신형 개인장비 지급
 * 자기계발비용
