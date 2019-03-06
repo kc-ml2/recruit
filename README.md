@@ -44,7 +44,7 @@
     * docker management for simultaneous, large-scale model training
     * automatic management of training queues
     * building baselines
-    * multi-GPU distributed training
+    * multi-GPU and multiprocess distributed training
     * developing and maintaining DevOps tools such as loggers and Tensorboard-like monitors. 
 * 자격요건
   * TensorFlow, PyTorch와 같은 플랫폼을 이용한 머신러닝 모델 개발 경험
