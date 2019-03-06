@@ -74,13 +74,17 @@
 ### Research Scientist/Engineer
 * KRW 50M ~ 100M (negotiable)
 * What you'll do
+  * Research and development in machine learning and deep learning.
+    * Publishing papers in major conferences and journals.  
+    * Software development based on open-source machine learning frameworks.
   * Identifying topics in machine learning that will open new fields of research.
-  * Contributing to the research of machine learning by publishing papers in major conferences and journals.
   * Organize and participate in various outreach activities to build partnerships between ML2 and other machine learning research communities.
 * Minimum qualification 
   * Academic research experience in a quantitative field in the form of peer-reviewed journal publications.
   * Good understanding of classical and modern machine learning models.
-Comfortable with formulating mathematical ideas into computer programs.
+  * Experience in large-codebase open-source projects of developing machine learning models using open-source machine learning frameworks such as TensorFlow or PyTorch.
+  * Ability to understand machine learning research papers and implement models described in the literatures.
+  * Comfortable with formulating mathematical ideas into computer programs.
 * Preferred qualification
   * Track record of self-motivated, independent, and collaborative academic research.
   * Publications in academic journals and conferences in machine learning including NIPS, ICML, and ICLR.
