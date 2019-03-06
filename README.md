@@ -39,7 +39,7 @@
 ### [Software Engineer](README.md#software-engineer)
 * 5천만원 ~ 1억원 (협의 가능)
 * 주요업무
-  * 머신러닝/딥러닝 연구개발 및 DevOps을 위한 오픈소스 프레임워크 개발
+  * 머신러닝/딥러닝 연구개발 및 DevOps를 위한 오픈소스 프레임워크 개발
     * dataset pipelining
     * docker management for simultaneous, large-scale model training
     * automatic management of training queues
