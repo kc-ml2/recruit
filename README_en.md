@@ -99,10 +99,14 @@
   * Experience in machine learning/deep learning research and development.
 
 ## Perks
-* High-end laptop or desktop of personal choice
+* Infrastructure for research and development
+  * On-premise deep learning workstations for ML2 only
+  * Can purchase cloud compute instances of choice whenever needed.
+* High-end laptop or desktop for everyone
 * Financial support for educational activities including conference, classes, meetups.
 * Flexible work hour
 * Free food, snacks, coffee
+
 ## Hiring process
 * Send your CV or resume to contact@kc-ml2.com.
 * Take-home project
@@ -111,4 +115,5 @@
 * On-site interview
   * Presentation of the take-home project
   * Technical interview
+* Reference check
 
