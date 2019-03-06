@@ -52,9 +52,10 @@
 * 우대사항
   * 자기 주도적인 소프트웨어 개발 활동을 원하시는 분
   * 오픈소스 소프트웨어 개발 활동을 원하시는 분
-  * TensorFlow, PyTorch, scikit-learn 등의 머신러닝 플랫폼을 포함한 대규모 오픈소스 라이브러리 개발에 기여하신분
-  * Interactive web front-end 및 시각화 개발 경험이 있으신 분
-  * AWS등의 클라우드 컴퓨팅 DevOps 경험이 있으신 분
+  * TensorFlow, PyTorch, scikit-learn 등의 머신러닝 플랫폼을 포함한 대규모 오픈소스 라이브러리 개발 경험
+  * Python/C/C++ 기반의 back-end 개발 경험
+  * Interactive web front-end 및 시각화 개발 경험
+  * AWS등의 클라우드 컴퓨팅 DevOps 경험
   
 ### [Internship](README.md#internship)
 * 3,500만원 (협의 가능)
