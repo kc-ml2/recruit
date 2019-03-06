@@ -86,34 +86,17 @@
   * Ability to understand machine learning research papers and implement models described in the literatures.
   * Comfortable with formulating mathematical ideas into computer programs.
 * Preferred qualification
-  * Track record of self-motivated, independent, and collaborative academic research.
+  * Track record of self-motivated, independent, and collaborative academic research and/or software development.
   * Publications in academic journals and conferences in machine learning including NIPS, ICML, and ICLR.
 
-### Research Engineer
-* KRW 50M ~ 100M (negotiable)
-* What you'll do
-  * Research software development based on open-source machine learning frameworks.
-  * DevOps for machine learning software engineering.
-  * Organize and participate in various outreach activities to build partnerships between ML2 and other developer communities.
-* Minimum qualification
-  * Experience in large-codebase open-source projects.
-  * Experience in developing machine learning models using open-source machine learning frameworks such as TensorFlow or PyTorch.
-  * Ability to understand machine learning research papers and implement models described in the literatures.
-* Preferred qualification
-  * Track record of self-motivated, independent, and collaborative software development.
-  * Contributions to large-scale open-source projects, especially to machine learning frameworks such as TensorFlow, Pytorch, or scikit-learn.
-  * Experience in developing interactive web frontend and visualization.
-  * DevOps experience with cloud computing such as AWS.
 ### Research Resident
 * KRW 35M ~ 60M (negotiable)
-* Eligible to make a transition to a full-time research scientist/engineer position after 1 year or earlier when qualified.
+* Eligible to make a transition to a full-time research scientist/engineer position after 1 year or earlier when qualified via an internal interview.
 * What you'll do
-  * Following recent developments in machine learning and sharing them with ML2 members and others via seminars and/or blog posts.
-  * Re-implementing cutting-edge machine learning models and reproducing experimental results.
+  * Same as research scientist/engineer.
 * Minimum qualification
   * Can work for least 3 months at ML2.
-  * Experience in academic research.
-  * Experience in implementing machine learning models.
+  * Experience in machine learning/deep learning research and development.
 
 ## Perks
 * High-end laptop or desktop of personal choice
