@@ -4,7 +4,7 @@
 ---
 # ML2 is looking for new members!
 ## About ML2
-* ML2 is an independent research organization within a semiconductor and display solutions company KC.
+* ML2 is an independent research organization within ([KC](http://www.kct.co.kr/), a semiconductor and display solutions company.
 * ML2 focuses on machine learning research with a long-term vision, looking beyond pushing the envelope of the current state of the art and identifying topics that will open new fields of research and development.
 * ML2 works based on the following principles:
   * We value the independence of each researcher.
@@ -18,13 +18,46 @@
   * Kakao AI report (in Korean) 
     * https://brunch.co.kr/@kakao-it/296
 ## Open roles
+
 ### Requirements for all roles
 * Python
 * Git
 * Communication skill
   * Korean for everyday usage
   * English for academic and business conversation, reading, and writing.
-### Research Scientist
+  
+### Especially interested in if you have an expertise in any of
+* compiler design
+* system programming
+* hardware design
+* design automation and computer-aided design
+* computer and network security
+* theoretical computer science
+* graph theory
+
+### Software Engineer
+* KRW 50M ~ 100M (negotiable)
+* What you'll do
+  * Development of open-source framework for research, development, and DevOps of machine learning and deep learning.
+    * dataset pipelining
+    * docker management for simultaneous, large-scale model training
+    * automatic management of training queues
+    * building baselines
+    * multi-GPU and multiprocess distributed training
+    * developing and maintaining DevOps tools such as loggers and Tensorboard-like monitors. 
+* Minimum qualification
+  * Experience in large-codebase open-source projects.
+  * Experience in developing machine learning models using open-source machine learning frameworks such as TensorFlow or PyTorch.
+  * Ability to understand machine learning research papers and implement models described in the literatures.
+* Preferred qualification
+  * Track record of self-motivated, independent, and collaborative software development.
+  * Passion for becoming a core developer of an open source project with a large userbase.
+  * Contributions to large-scale open-source projects, especially to machine learning frameworks such as TensorFlow, Pytorch, or scikit-learn.
+  * Experience in developing Python/C/C++-based backend.
+  * Experience in developing interactive web frontend and visualization.
+  * DevOps experience with cloud computing such as AWS.
+  
+### Research Scientist/Engineer
 * KRW 50M ~ 100M (negotiable)
 * What you'll do
   * Identifying topics in machine learning that will open new fields of research.
@@ -37,6 +70,7 @@ Comfortable with formulating mathematical ideas into computer programs.
 * Preferred qualification
   * Track record of self-motivated, independent, and collaborative academic research.
   * Publications in academic journals and conferences in machine learning including NIPS, ICML, and ICLR.
+
 ### Research Engineer
 * KRW 50M ~ 100M (negotiable)
 * What you'll do
@@ -62,14 +96,7 @@ Comfortable with formulating mathematical ideas into computer programs.
   * Can work for least 3 months at ML2.
   * Experience in academic research.
   * Experience in implementing machine learning models.
-## Especially interested in if you have an expertise in any of
-* graph theory
-* hardware design
-* design automation and computer-aided design
-* compiler design
-* system programming
-* theoretical computer science
-* computer and network security
+
 ## Perks
 * High-end laptop or desktop of personal choice
 * Financial support for educational activities including conference, classes, meetups.
