@@ -47,14 +47,15 @@
     * multi-GPU and multiprocess distributed training
     * developing and maintaining DevOps tools such as loggers and Tensorboard-like monitors. 
 * 자격요건
+  * 대규모 오픈소스 프로젝트 개발 경험
   * TensorFlow, PyTorch와 같은 플랫폼을 이용한 머신러닝 모델 개발 경험
   * 머신러닝 관련 연구논문을 읽고 이해하여 해당 모델의 구현이 가능하신 분
 * 우대사항
   * 자기 주도적인 소프트웨어 개발 활동을 원하시는 분
   * 오픈소스 소프트웨어 개발 활동을 원하시는 분
   * TensorFlow, PyTorch, scikit-learn 등의 머신러닝 플랫폼을 포함한 대규모 오픈소스 라이브러리 개발 경험
-  * Python/C/C++ 기반의 back-end 개발 경험
-  * Interactive web front-end 및 시각화 개발 경험
+  * Python/C/C++ 기반의 backend 개발 경험
+  * Interactive web frontend 및 시각화 개발 경험
   * AWS등의 클라우드 컴퓨팅 DevOps 경험
   
 ### [Internship](README.md#internship)
@@ -78,9 +79,8 @@
   * 다양한 대외활동을 통한 연구개발 저변 확대
 * 자격요건
   * 공학, 수학, 통계학, 사회과학 및 자연과학 분야의 학술 연구 실적
-  * 대규모 오픈소스 프로젝트 개발 경험
   * 다양한 머신러닝 모델에 대한 이해 
-  * 오픈소스 머신러닝/딥러닝 플랫폼을 이용한 개발 경험
+  * 오픈소스 머신러닝/딥러닝 플랫폼을 이용한 대규모 오픈소스 프로젝트 개발 경험
   * 최신 머신러닝/딥러닝 연구 논문의 이해와 해당 모델의 구현이 가능하신 분
   * 수학적인 아이디어를 프로그래밍으로 구현할 수 있는 분
 * 우대사항
