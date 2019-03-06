@@ -41,7 +41,7 @@
 * 주요업무
   * 머신러닝/딥러닝 연구개발 및 DevOps을 위한 오픈소스 프레임워크 개발
     * dataset pipelining
-    * docker distribution for simultaneous, large-scale model training
+    * docker management for simultaneous, large-scale model training
     * automatic management of training queues
     * building baselines
     * multi-GPU distributed training
