@@ -10,6 +10,7 @@
   * We value the independence of each researcher.
   * We actively seek collaborations with other research group.
   * We encourage outreach activities such as contributing open-source softwares, organizing meetups, and presenting talks.
+* ML2 strives for diversity in all aspects, including gender, race, and nationality.
 * More info on ML2
   * E-mail
     * contact@kc-ml2.com
@@ -57,6 +58,19 @@
   * Experience in developing interactive web frontend and visualization.
   * DevOps experience with cloud computing such as AWS.
   
+### Internship
+* KRW 35M (negotiable)
+* Duration
+  * 3-month 
+  * Eligible for a full-time position after the internship finishes via an internal interview.
+* What you'll do
+  * Following recent developments in machine learning and sharing them with ML2 members and others via seminars and/or blog posts.
+  * Re-implementing cutting-edge machine learning models and reproducing experimental results.
+  * Software development based on open-source machine learning frameworks for research and development in machine learning and deep learning.
+* Minimum qualification
+  * Experience in academic research.
+  * Experience in implementing machine learning models.
+
 ### Research Scientist/Engineer
 * KRW 50M ~ 100M (negotiable)
 * What you'll do
@@ -86,7 +100,7 @@ Comfortable with formulating mathematical ideas into computer programs.
   * Contributions to large-scale open-source projects, especially to machine learning frameworks such as TensorFlow, Pytorch, or scikit-learn.
   * Experience in developing interactive web frontend and visualization.
   * DevOps experience with cloud computing such as AWS.
-### Research Resident (Internship)
+### Research Resident
 * KRW 35M ~ 60M (negotiable)
 * Eligible to make a transition to a full-time research scientist/engineer position after 1 year or earlier when qualified.
 * What you'll do
