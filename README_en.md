@@ -62,7 +62,7 @@
 * KRW 35M (negotiable)
 * Duration
   * 3-month 
-  * Eligible for a full-time position after the internship finishes via an internal interview.
+  * After the internship finishes, participants with exceptional performance are eligible for a full-time position via an internal interview.
 * What you'll do
   * Following recent developments in machine learning and sharing them with ML2 members and others via seminars and/or blog posts.
   * Re-implementing cutting-edge machine learning models and reproducing experimental results.
