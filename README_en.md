@@ -76,8 +76,8 @@
   * Research and development in machine learning and deep learning.
     * Publishing papers in major conferences and journals.  
     * Software development based on open-source machine learning frameworks.
-  * Identifying topics in machine learning that will open new fields of research.
-  * Organize and participate in various outreach activities to build partnerships between ML2 and other machine learning research communities.
+  * Identifying new research topics in machine learning.
+  * Organizing and participating in various outreach activities to build partnerships between ML2 and other machine learning research communities.
 * Minimum qualification 
   * Academic research experience in a quantitative field in the form of peer-reviewed journal publications.
   * Good understanding of classical and modern machine learning models.
