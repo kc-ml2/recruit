@@ -14,10 +14,9 @@
 * More info on ML2
   * E-mail
     * contact@kc-ml2.com
-  * ML2 web page
-    * https://www.kc-ml2.com/
-  * Kakao AI report (in Korean) 
-    * https://brunch.co.kr/@kakao-it/296
+  * Research areas
+    * https://www.kc-ml2.com/research
+  
 ## Open roles
 
 ### Requirements for all roles
