@@ -10,7 +10,7 @@
   * We value the independence of each researcher.
   * We actively seek collaborations with other research group.
   * We encourage outreach activities such as contributing open-source softwares, organizing meetups, and presenting talks.
-* ML2 strives for diversity in all aspects, including gender, race, and nationality.
+* ML2 strives for diversity in all aspects, including but not limited to gender, race, and ethnicity.
 * More info on ML2
   * E-mail
     * contact@kc-ml2.com
