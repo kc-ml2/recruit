@@ -3,7 +3,7 @@
 [한글](README.md) | English
 ---
 # ML2 is looking for new members!
-## About ML2
+## About KC Machine Learning Lab (ML2)
 * ML2 is an independent research organization within [KC](http://www.kct.co.kr/), a semiconductor and display solutions company.
 * ML2 focuses on machine learning research with a long-term vision, looking beyond pushing the envelope of the current state of the art and identifying topics that will open new fields of research and development.
 * ML2 works based on the following principles:
