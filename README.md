@@ -15,10 +15,8 @@
   * 관련정보
     * 이메일
       * contact@kc-ml2.com
-    * 홈페이지
-      * https://www.kc-ml2.com/
-    * 카카오 AI 리포트 
-      * https://brunch.co.kr/@kakao-it/296
+    * 연구분야
+      * https://www.kc-ml2.com/research
       
 ## 채용분야
 
