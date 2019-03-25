@@ -19,21 +19,22 @@
   
 ## Open roles
 
-### Requirements for all roles
-* Python
-* Git
-* Communication skill
-  * Korean for everyday usage
-  * English for academic and business conversation, reading, and writing.
+### For all positions
+* Requirements
+  * Python
+  * Git
+  * Communication skill
+    * Korean for everyday usage
+    * English for academic and business conversation, reading, and writing.
   
-### Especially interested in if you have an expertise in any of
-* compiler design
-* system programming
-* hardware design
-* design automation and computer-aided design
-* computer and network security
-* theoretical computer science
-* graph theory
+* Especially interested in if you have an expertise in any of
+  * compiler design
+  * system programming
+  * hardware design
+  * design automation and computer-aided design
+  * computer and network security
+  * theoretical computer science
+  * graph theory
 
 ### Software Engineer
 * KRW 50M ~ 100M (negotiable)
