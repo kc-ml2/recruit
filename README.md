@@ -2,7 +2,7 @@
 
 한글 | [English](README_en.md)
 ---
-# ML2를 함께 키워나갈 분을 찾습니다!
+# KC Machine Learning Lab(ML2)을 함께 키워나갈 분을 찾습니다!
 
 ## ML2 소개
   * ML2는 반도체 제조 솔루션 기업 [KC](http://www.kct.co.kr/)에서 2018년에 설립한 연구조직입니다.
