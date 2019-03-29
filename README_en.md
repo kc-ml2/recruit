@@ -3,38 +3,38 @@
 [한글](README.md) | English
 ---
 # ML2 is looking for new members!
-## About ML2
+## About KC Machine Learning Lab (ML2)
 * ML2 is an independent research organization within [KC](http://www.kct.co.kr/), a semiconductor and display solutions company.
 * ML2 focuses on machine learning research with a long-term vision, looking beyond pushing the envelope of the current state of the art and identifying topics that will open new fields of research and development.
 * ML2 works based on the following principles:
   * We value the independence of each researcher.
   * We actively seek collaborations with other research group.
   * We encourage outreach activities such as contributing open-source softwares, organizing meetups, and presenting talks.
-* ML2 strives for diversity in all aspects, including gender, race, and nationality.
+* ML2 strives for diversity in all aspects, including but not limited to gender, race, and ethnicity.
 * More info on ML2
   * E-mail
     * contact@kc-ml2.com
-  * ML2 web page
-    * https://www.kc-ml2.com/
-  * Kakao AI report (in Korean) 
-    * https://brunch.co.kr/@kakao-it/296
+  * Research areas
+    * https://www.kc-ml2.com/research
+  
 ## Open roles
 
-### Requirements for all roles
-* Python
-* Git
-* Communication skill
-  * Korean for everyday usage
-  * English for academic and business conversation, reading, and writing.
+### For all positions
+* Requirements
+  * Python
+  * Git
+  * Communication skill
+    * Korean for everyday usage
+    * English for academic and business conversation, reading, and writing.
   
-### Especially interested in if you have an expertise in any of
-* compiler design
-* system programming
-* hardware design
-* design automation and computer-aided design
-* computer and network security
-* theoretical computer science
-* graph theory
+* Especially interested in if you have an expertise in any of
+  * compiler design
+  * system programming
+  * hardware design
+  * design automation and computer-aided design
+  * computer and network security
+  * theoretical computer science
+  * graph theory
 
 ### Software Engineer
 * KRW 50M ~ 100M (negotiable)
@@ -62,7 +62,7 @@
 * KRW 35M (negotiable)
 * Duration
   * 3-month 
-  * Eligible for a full-time position after the internship finishes via an internal interview.
+  * After the internship finishes, participants with exceptional performance are eligible for a full-time position via an internal interview.
 * What you'll do
   * Following recent developments in machine learning and sharing them with ML2 members and others via seminars and/or blog posts.
   * Re-implementing cutting-edge machine learning models and reproducing experimental results.
@@ -77,8 +77,8 @@
   * Research and development in machine learning and deep learning.
     * Publishing papers in major conferences and journals.  
     * Software development based on open-source machine learning frameworks.
-  * Identifying topics in machine learning that will open new fields of research.
-  * Organize and participate in various outreach activities to build partnerships between ML2 and other machine learning research communities.
+  * Identifying new research topics in machine learning.
+  * Organizing and participating in various outreach activities to build partnerships between ML2 and other machine learning research communities.
 * Minimum qualification 
   * Academic research experience in a quantitative field in the form of peer-reviewed journal publications.
   * Good understanding of classical and modern machine learning models.
