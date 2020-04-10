@@ -35,23 +35,33 @@
   * Git을 이용한 프로젝트 관리 경험
   * 자료 읽기 및 작성, 대화, 발표가 가능한 수준의 영어 사용 능력
 
-* 다음과 같은 분야에 전문 지식이 있는 분을 모십니다
-  * compiler design
-  * system programming
+* 다음과 같은 분야에 전문 지식이 있는 분을 모십니다.
   * hardware design
+    * RISC-V
+    * FPGA
   * design automation and computer-aided design
-  * computer and network security
   * theoretical computer science
-  * graph theory
+    * compiler design
+    * static program analysis
+    * computational complexity theory
+  * computer systems
+    * computer architecture
+    * system programming
+    * computer networks
+    * computer security
+    * databases
 
 ### [Software Engineer](README.md#software-engineer)
 * 5천만원 ~ 1억원 (협의 가능)
 * 주요업무
+  * 머신러닝/딥러닝 알고리즘 연구개발
+  * 머신러닝/딥러닝 베이스라인 라이브러리 개발
+  * 머신러닝/딥러닝 연구개발을 위한 웹 프론트엔드 유저 인터페이스 개발
+  * 웹 브라우저를 이용한 풀스택 머신러닝/딥러닝 연구개발 (WebAssembly, WebGL, TypeScript, TensorFlow.js)
   * 머신러닝/딥러닝 연구개발 및 DevOps를 위한 오픈소스 프레임워크 개발
     * dataset pipelining
     * docker management for simultaneous, large-scale model training
     * automatic management of training queues
-    * building baselines
     * multi-GPU and multiprocess distributed training
     * developing and maintaining DevOps tools such as loggers and Tensorboard-like monitors. 
 * 자격요건
@@ -66,25 +76,17 @@
   * Interactive web frontend 및 시각화 개발 경험
   * AWS등의 클라우드 컴퓨팅 DevOps 경험
   
-### [Internship](README.md#internship)
-* 3,500만원 (협의 가능)
-* 3개월의 인턴쉽 과정 중 뛰어난 성과를 보여주신 분의 경우 인터뷰를 통해 정직원으로 ML2에 합류할 수 있습니다. 
-* 주요업무
-  * 최신 머신러닝/딥러닝 연구 결과를 이해하고 ML2 구성원이나 다른 분들에게 세미나 또는 블로그 형식으로 공유
-  * 최신 머신러닝/딥러닝 연구논문의 모델 및 실험을 재구현
-  * 최신 머신러닝/딥러닝 연구를 위한 오픈소스 프레임워크를 이용한 소프트웨어 개발 
-* 자격요건
-  * 학술 연구 참여 경험 또는 머신러닝 모델 개발 경험
-  
 ### [Research Scientist/Engineer](README.md#research-scientistengineer)
 * 5천만원 ~ 1억원 (협의 가능)
 * 주요업무
   * 최신 머신러닝/딥러닝 연구 및 개발
     * 학술논문 출판
     * 오픈소스 프레임워크를 이용한 소프트웨어 개발
+    * 머신러닝/딥러닝 가속을 위한 기존의 하드웨어 활용법 연구 및 새로운 하드웨어 개발
+    * 시스템 최적화를 위한 머신러닝 연구개발
   * 새로운 연구분야 및 주제 발굴
   * 다양한 대외활동을 통한 연구개발 저변 확대
-* 자격요건
+* 자격요건 (다음 중 하나 이상)
   * 공학, 수학, 통계학, 사회과학 및 자연과학 분야의 학술 연구 실적
   * 다양한 머신러닝 모델에 대한 이해 
   * 오픈소스 머신러닝/딥러닝 플랫폼을 이용한 대규모 오픈소스 프로젝트 개발 경험
@@ -101,7 +103,17 @@
   * Research Scientist/Engineer와 동일
 * 자격요건
   * 머신러닝/딥러닝 관련 연구개발 참여 경험
-  
+
+### [Internship](README.md#internship)
+* 3,500만원 (협의 가능)
+* 3개월의 인턴쉽 과정 중 뛰어난 성과를 보여주신 분의 경우 인터뷰를 통해 정직원으로 ML2에 합류할 수 있습니다. 
+* 주요업무
+  * 최신 머신러닝/딥러닝 연구 결과를 이해하고 ML2 구성원이나 다른 분들에게 세미나 또는 블로그 형식으로 공유
+  * 최신 머신러닝/딥러닝 연구논문의 모델 및 실험을 재구현
+  * 최신 머신러닝/딥러닝 연구를 위한 오픈소스 프레임워크를 이용한 소프트웨어 개발 
+* 자격요건
+  * 학술 연구 참여 경험 또는 머신러닝 모델 개발 경험
+
 ## 지원 및 혜택
 * 연구개발을 위한 ML2 전용 하드웨어 보유
   * 다수의 multi-GPU deep learning workstation
