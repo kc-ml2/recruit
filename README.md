@@ -50,14 +50,16 @@
     * computer security
     * databases
 
-### [Software Engineer](README.md#software-engineer)
+### [Senor Software Engineer](README.md#senior-software-engineer)
 * 5천만원 ~ 1억원 (협의 가능)
+* 다음과 같은 커리어 플랜을 계획 중이신 분들을 염두에 두고 있습니다.
+  * 대규모 오픈 소스 프로젝트의 코어 컨트리뷰터로 풀타임으로 집중해서 활동하고자 하시는 분,
+  * 다른 분야의 소프트웨어 엔지니어링 경력을 바탕으로 머신러닝/딥러닝 관련 역량을 키워서 사업 아이템을 발굴하여 창업하고자 하시는 분,
+  * 그 밖에도 머신러닝을 바탕으로 창의적이고 도전적인 소프트웨어 엔지니어링 영역에 도전하고자 하시는 분.
 * 주요업무
   * 머신러닝/딥러닝 알고리즘 연구개발
-  * 머신러닝/딥러닝 베이스라인 라이브러리 개발
-  * 머신러닝/딥러닝 연구개발을 위한 웹 프론트엔드 유저 인터페이스 개발
   * 웹 브라우저를 이용한 풀스택 머신러닝/딥러닝 연구개발 (WebAssembly, WebGL, TypeScript, TensorFlow.js)
-  * 머신러닝/딥러닝 연구개발 및 DevOps를 위한 오픈소스 프레임워크 개발
+  * 머신러닝/딥러닝 연구개발 및 ML DevOps를 위한 오픈소스 프레임워크 개발
     * dataset pipelining
     * docker management for simultaneous, large-scale model training
     * automatic management of training queues
@@ -74,6 +76,15 @@
   * Python/C/C++ 기반의 backend 개발 경험
   * Interactive web frontend 및 시각화 개발 경험
   * AWS등의 클라우드 컴퓨팅 DevOps 경험
+  
+### [Junior Software Engineer](README.md#junior-software-engineer)
+* 3,500만원 - 6,000만원 (협의 가능)
+* 주요업무
+  * 머신러닝/딥러닝 베이스라인 라이브러리 개발
+  * 머신러닝/딥러닝 연구개발을 위한 웹 프론트엔드 유저 인터페이스 개발
+  * 또는 senior software engineer의 주요 업무 중 일부 혹은 전체.
+* 자격요건
+  * 팀 단위의 소프트웨어 개발 참여 경험
   
 ### [Research Scientist/Engineer](README.md#research-scientistengineer)
 * 5천만원 ~ 1억원 (협의 가능)
