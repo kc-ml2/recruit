@@ -6,6 +6,18 @@
 ## About KC Machine Learning Lab (ML2)
 * ML2 is an independent research organization within [KC](http://www.kct.co.kr/), a semiconductor and display solutions company.
 * ML2 focuses on machine learning research with a long-term vision, looking beyond pushing the envelope of the current state of the art and identifying topics that will open new fields of research and development.
+* The roles of ML2 inside KC are
+  * in a short term (a few years), we
+    * perform academic researches in machine learning and develop associated technologies,
+    * collaborate with other companies and universities that are working on machine learning, and
+    * help KC and its affiliated companies apply machine learning to manufacturing solutions in semiconductor and display industries.
+  * in a mid-term (~5 years or more), we 
+    * internalize theoretical and practical knowledge of machine learning via such researches and developments, and 
+    * attract and secure talents who can understand and utilize such knowledge inside KC, 
+  * and in the long run (a decade or more), we
+    * obtain and maintain the leadership in specific key elements of machine learning, and
+    * support for and invest in entrepreneurial teams as an incubator of machine learning research and development.
+* ML2 focuses not on discovering commercial applications of its research and development, but on doing academic researches to keep close relationships with other research entities and build in-house expertises. When a business opportunity is derived from research activities of ML2, KC will form a separate team, which may contain key members from ML2, to pursue such a commercialization.
 * ML2 works based on the following principles:
   * We value the independence of each researcher.
   * We actively seek collaborations with other research group.
