@@ -53,7 +53,7 @@
     
 ### [Software Engineer](README.md#software-engineer)
 
-#### [Senor Software Engineer](README.md#senior-software-engineer)
+#### [Senior Software Engineer](README.md#senior-software-engineer)
 ##### 대상
 * 다음과 같은 커리어 플랜을 계획 중이신 분들을 염두에 두고 있습니다.
   * 대규모 오픈 소스 프로젝트의 코어 컨트리뷰터로 풀타임으로 집중해서 활동하고자 하시는 분,
@@ -81,7 +81,6 @@
   * Python/C/C++ 기반의 backend 개발 경험
   * Interactive web frontend 및 시각화 개발 경험
   * AWS등의 클라우드 컴퓨팅 DevOps 경험
-
 
 #### [Junior Software Engineer](README.md#junior-software-engineer)
 ##### 대상
