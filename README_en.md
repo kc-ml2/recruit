@@ -99,6 +99,10 @@
   
 ### Research Scientist/Engineer
 ##### About the Role
+* Please apply for one of the research positions if you are interested in doing cutting-edge ML researches and
+  * you have an experience in ML/DL research and development,
+  * and you want a research environment with much freedom and independence. 
+  
 ##### Job Description
 
 * KRW 50M ~ 100M (negotiable)
@@ -120,6 +124,8 @@
 
 ### Research Resident
 ##### About the Role
+* A research resident position is for anyone who wants to become a ML researcher.
+  
 ##### Job Description
 
 * KRW 35M ~ 60M (negotiable)
@@ -132,6 +138,8 @@
 
 ### Internship
 ##### About the Role
+* You have a great potential but lack experiences in the field? Then the internship position is right here for you!
+
 ##### Job Description
 * KRW 35M (negotiable)
 * Duration
@@ -155,11 +163,13 @@
 * Free food, snacks, coffee
 
 ## Hiring process
-* Send your CV or resume to contact@kc-ml2.com.
+* Send your CV/resume and a portfolio to contact@kc-ml2.com.
+* First on-site interview
+  * An informal meeting for a chat based on the CV and the portfolio.
 * Take-home project
   * Review, re-implement, and reproduce a research paper from a list of selected topics. 
   * Prepare a portfolio presentation
-* On-site interview
+* Second on-site interview
   * Presentation of the take-home project
   * Technical interview
 * Reference check
