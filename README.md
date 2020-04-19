@@ -66,8 +66,8 @@
 ##### 상세정보
 * 5천만원 ~ 1억원 (협의 가능)  
 * 주요업무
-  * 머신러닝/딥러닝 알고리즘 연구개발
-  * 웹 브라우저를 이용한 풀스택 머신러닝/딥러닝 연구개발 (WebAssembly, WebGL, TypeScript, TensorFlow.js)
+  * 머신러닝/딥러닝 알고리즘 개발
+  * 웹 브라우저를 이용한 풀스택 머신러닝/딥러닝 개발 (WebAssembly, WebGL, TypeScript, TensorFlow.js)
   * 머신러닝/딥러닝 연구개발 및 ML DevOps를 위한 오픈소스 프레임워크 개발
     * dataset pipelining
     * docker management for simultaneous, large-scale model training
