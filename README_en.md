@@ -49,14 +49,24 @@
   * theoretical computer science
   * graph theory
 
-### Software Engineer
+### [Software Engineer](README_en.md#software-engineer)
+#### [Senior Software Engineer](README_en.md#senior-software-engineer)
+
+##### About the Role
+* Join ML2 as a senior software engineer if you have a career plan such as:
+  * working as a full-time core contributor of a large codebase open source project,
+  * building an expertise in ML/DL based on your experience of software engineering in other domains and becoming an entrepreneur by discovering a business item in ML/DL,
+  * and/or pioneering a software engineering project in any area of ML/DL.
+
+##### Job Description
 * KRW 50M ~ 100M (negotiable)
 * What you'll do
+  * Develop new ML/DL algorithms.
+  * Full-stack ML/DL development on web browsers as a platform using WebAssembly, WebGL, TypeScript, TensorFlow.js, etc.
   * Development of open-source framework for research, development, and DevOps of machine learning and deep learning.
     * dataset pipelining
     * docker management for simultaneous, large-scale model training
     * automatic management of training queues
-    * building baselines
     * multi-GPU and multiprocess distributed training
     * developing and maintaining DevOps tools such as loggers and Tensorboard-like monitors. 
 * Minimum qualification
@@ -70,21 +80,27 @@
   * Experience in developing Python/C/C++-based backend.
   * Experience in developing interactive web frontend and visualization.
   * DevOps experience with cloud computing such as AWS.
-  
-### Internship
-* KRW 35M (negotiable)
-* Duration
-  * 3-month 
-  * After the internship finishes, participants with exceptional performance are eligible for a full-time position via an internal interview.
-* What you'll do
-  * Following recent developments in machine learning and sharing them with ML2 members and others via seminars and/or blog posts.
-  * Re-implementing cutting-edge machine learning models and reproducing experimental results.
-  * Software development based on open-source machine learning frameworks for research and development in machine learning and deep learning.
-* Minimum qualification
-  * Experience in academic research.
-  * Experience in implementing machine learning models.
 
+#### [Junior Software Engineer](README_en.md#junior-software-engineer)
+##### About the Role
+* Apply for a junior software engineer position if you want to
+  * become a machine learning engineer,
+  * develop open source software programs,
+  * and/or work on implementing an idea using an ML/DL framework.
+
+##### Job Description
+* KRW 35M ~ 60M (negotiable)
+* What you'll do
+  * building ML/DL baseline libraries.
+  * implemeting a web frontend user interface for ML/DL research and development, 
+  * and/or any of the projects for a senior software engineer.
+* Requirements
+  * Experience of working as a member of software development team.
+  
 ### Research Scientist/Engineer
+##### About the Role
+##### Job Description
+
 * KRW 50M ~ 100M (negotiable)
 * What you'll do
   * Research and development in machine learning and deep learning.
@@ -103,6 +119,9 @@
   * Publications in academic journals and conferences in machine learning including NIPS, ICML, and ICLR.
 
 ### Research Resident
+##### About the Role
+##### Job Description
+
 * KRW 35M ~ 60M (negotiable)
 * Eligible to make a transition to a full-time research scientist/engineer position after 1 year or earlier when qualified via an internal interview.
 * What you'll do
@@ -110,6 +129,21 @@
 * Minimum qualification
   * Can work for least 3 months at ML2.
   * Experience in machine learning/deep learning research and development.
+
+### Internship
+##### About the Role
+##### Job Description
+* KRW 35M (negotiable)
+* Duration
+  * 3-month 
+  * After the internship finishes, participants with exceptional performance are eligible for a full-time position via an internal interview.
+* What you'll do
+  * Following recent developments in machine learning and sharing them with ML2 members and others via seminars and/or blog posts.
+  * Re-implementing cutting-edge machine learning models and reproducing experimental results.
+  * Software development based on open-source machine learning frameworks for research and development in machine learning and deep learning.
+* Minimum qualification
+  * Experience in academic research.
+  * Experience in implementing machine learning models.
 
 ## Perks
 * Infrastructure for research and development
