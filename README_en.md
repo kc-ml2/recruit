@@ -6,6 +6,19 @@
 ## About KC Machine Learning Lab (ML2)
 * ML2 is an independent research organization within [KC](http://www.kct.co.kr/), a semiconductor and display solutions company.
 * ML2 focuses on machine learning research with a long-term vision, looking beyond pushing the envelope of the current state of the art and identifying topics that will open new fields of research and development.
+* The roles of ML2 inside KC are
+  * in a short term (a few years), we
+    * perform academic researches in machine learning and develop associated technologies,
+    * collaborate with other companies and universities that are working on machine learning, and
+    * help KC and its affiliated companies apply machine learning to manufacturing solutions in semiconductor and display industries.
+  * in a mid-term (~5 years or more), we 
+    * internalize theoretical and practical knowledge of machine learning via such researches and developments, and 
+    * attract and secure talents who can understand and utilize such knowledge inside KC, 
+  * and in the long run (a decade or more), we
+    * obtain and maintain the leadership in specific key elements of machine learning, and
+    * support for and invest in entrepreneurial teams as an incubator of machine learning research and development.
+* ML2 focuses not on discovering commercial applications of its research and development, but on doing academic researches to keep close relationships with other research entities and build in-house expertises. 
+* When a business opportunity is derived from research activities of ML2, KC will form a separate team to pursue such a commercialization. ML2 members who are interested in the project will be encouraged to join the team full-time. 
 * ML2 works based on the following principles:
   * We value the independence of each researcher.
   * We actively seek collaborations with other research group.
@@ -36,14 +49,24 @@
   * theoretical computer science
   * graph theory
 
-### Software Engineer
+### [Software Engineer](README_en.md#software-engineer)
+#### [Senior Software Engineer](README_en.md#senior-software-engineer)
+
+##### About the Role
+* Join ML2 as a senior software engineer if you have a career plan such as:
+  * working as a full-time core contributor of a large codebase open source project,
+  * building an expertise in ML/DL based on your experience of software engineering in other domains and becoming an entrepreneur by discovering a business item in ML/DL,
+  * and/or pioneering a software engineering project in any area of ML/DL.
+
+##### Job Description
 * KRW 50M ~ 100M (negotiable)
 * What you'll do
+  * Develop new ML/DL algorithms.
+  * Full-stack ML/DL development on web browsers as a platform using WebAssembly, WebGL, TypeScript, TensorFlow.js, etc.
   * Development of open-source framework for research, development, and DevOps of machine learning and deep learning.
     * dataset pipelining
     * docker management for simultaneous, large-scale model training
     * automatic management of training queues
-    * building baselines
     * multi-GPU and multiprocess distributed training
     * developing and maintaining DevOps tools such as loggers and Tensorboard-like monitors. 
 * Minimum qualification
@@ -57,21 +80,31 @@
   * Experience in developing Python/C/C++-based backend.
   * Experience in developing interactive web frontend and visualization.
   * DevOps experience with cloud computing such as AWS.
-  
-### Internship
-* KRW 35M (negotiable)
-* Duration
-  * 3-month 
-  * After the internship finishes, participants with exceptional performance are eligible for a full-time position via an internal interview.
-* What you'll do
-  * Following recent developments in machine learning and sharing them with ML2 members and others via seminars and/or blog posts.
-  * Re-implementing cutting-edge machine learning models and reproducing experimental results.
-  * Software development based on open-source machine learning frameworks for research and development in machine learning and deep learning.
-* Minimum qualification
-  * Experience in academic research.
-  * Experience in implementing machine learning models.
 
+#### [Junior Software Engineer](README_en.md#junior-software-engineer)
+##### About the Role
+* Apply for a junior software engineer position if you want to
+  * become a machine learning engineer,
+  * develop open source software programs,
+  * and/or work on implementing an idea using an ML/DL framework.
+
+##### Job Description
+* KRW 35M ~ 60M (negotiable)
+* What you'll do
+  * building ML/DL baseline libraries.
+  * implemeting a web frontend user interface for ML/DL research and development, 
+  * and/or any of the projects for a senior software engineer.
+* Requirements
+  * Experience of working as a member of software development team.
+  
 ### Research Scientist/Engineer
+##### About the Role
+* Please apply for one of the research positions if you are interested in doing cutting-edge ML researches and
+  * you have an experience in ML/DL research and development,
+  * and you want a research environment with much freedom and independence. 
+  
+##### Job Description
+
 * KRW 50M ~ 100M (negotiable)
 * What you'll do
   * Research and development in machine learning and deep learning.
@@ -90,6 +123,11 @@
   * Publications in academic journals and conferences in machine learning including NIPS, ICML, and ICLR.
 
 ### Research Resident
+##### About the Role
+* A research resident position is for anyone who wants to become a ML researcher.
+  
+##### Job Description
+
 * KRW 35M ~ 60M (negotiable)
 * Eligible to make a transition to a full-time research scientist/engineer position after 1 year or earlier when qualified via an internal interview.
 * What you'll do
@@ -97,6 +135,23 @@
 * Minimum qualification
   * Can work for least 3 months at ML2.
   * Experience in machine learning/deep learning research and development.
+
+### Internship
+##### About the Role
+* You have a great potential but lack experiences in the field? Then the internship position is right here for you!
+
+##### Job Description
+* KRW 35M (negotiable)
+* Duration
+  * 3-month 
+  * After the internship finishes, participants with exceptional performance are eligible for a full-time position via an internal interview.
+* What you'll do
+  * Following recent developments in machine learning and sharing them with ML2 members and others via seminars and/or blog posts.
+  * Re-implementing cutting-edge machine learning models and reproducing experimental results.
+  * Software development based on open-source machine learning frameworks for research and development in machine learning and deep learning.
+* Minimum qualification
+  * Experience in academic research.
+  * Experience in implementing machine learning models.
 
 ## Perks
 * Infrastructure for research and development
@@ -108,11 +163,13 @@
 * Free food, snacks, coffee
 
 ## Hiring process
-* Send your CV or resume to contact@kc-ml2.com.
+* Send your CV/resume and a portfolio to contact@kc-ml2.com.
+* First on-site interview
+  * An informal meeting for a chat based on the CV and the portfolio.
 * Take-home project
   * Review, re-implement, and reproduce a research paper from a list of selected topics. 
   * Prepare a portfolio presentation
-* On-site interview
+* Second on-site interview
   * Presentation of the take-home project
   * Technical interview
 * Reference check
