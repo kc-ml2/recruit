@@ -30,6 +30,10 @@
       * contact@kc-ml2.com
     * 연구분야
       * https://www.kc-ml2.com/research
+    * 블로그
+      * https://blog.kc-ml2.com
+    * 페이스북
+      * https://web.facebook.com/KCML2
       
 ## 채용분야
 
