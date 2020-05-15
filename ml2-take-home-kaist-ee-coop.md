@@ -6,7 +6,6 @@
 * Pick one project that can demonstrate your interest and experience. 
   * If you are interested in developing a new deep learning algorithm, it can be one of the papers from the list below or any other paper you like.
   * Or any project related to one of the following topics:
-    * ML/DL baseline libraries.
     * Computer system optimization.
     * Repurposing available hardwares and/or developing new hardwares for ML/DL acceleration.
     * Web frontend UI for ML/DL research and development.
