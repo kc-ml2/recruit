@@ -6,6 +6,13 @@
 * Pick one project that can demonstrate your interest and experience. 
   * If you are interested in developing a deep learning algorithm, it can be one of the papers from the list below or any other paper you like.
   * Or any project of similar complexity as the papers related to one of the following topics:
+    * ML/DL baseline libraries.
+    * Computer system optimization.
+    * Repurposing available hardwares and/or developing new hardwares for ML/DL acceleration.
+    * New ML/DL algorithm.
+    * Web frontend UI for ML/DL research and development.
+    * Full-stack ML/DL development on web browsers as a platform using WebAssembly, WebGL, TypeScript, TensorFlow.js, etc.
+    * ML DevOps
 * Review and summarize the project.
 * Re-implement the project from scratch. 
   * Feel free to use any material as a reference as long as you cite it; just don't copy-and-paste others’ code snippets. 
