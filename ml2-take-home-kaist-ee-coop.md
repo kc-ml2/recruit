@@ -14,7 +14,7 @@
 * Review and summarize the project.
 * Re-implement the project from scratch. 
   * Feel free to use any material as a reference as long as you cite it; just don't copy-and-paste others’ code snippets. 
-  * And it is totally fine to design a project smaller in size/scope than the original one, i.e. reduced number of layers and weights for a deep model, or simpler requirements for a software.
+  * And it is totally fine to downscale the original project, i.e. reduced number of layers and weights for a deep model, or simpler requirements for a software.
 * Set your own target performance and present an experiment showing your work has achieved the desired objective.
   * You don’t have to reproduce the exact result of the original project. Toy tasks defined in the original project are good candidates.
 
