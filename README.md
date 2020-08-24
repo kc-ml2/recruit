@@ -18,8 +18,11 @@
     * 장기적(10년~)으로는 
       * 머신러닝의 특정 중요 기술들에서 기술적 리더쉽을 가지고,
       * 머신러닝 연구개발의 인큐베이터로서 창업 및 투자 활동을 지원하는 것입니다.
-  * ML2의 목표는 연구 결과의 사업화에 있지 않고, 지속적인 학술 연구를 통해 여러 연구 기관들과 협업 체계를 갖추고 내부 역량을 축적하는 것에 있습니다. 
-  * ML2의 연구 결과 중 추후 사업에 적용이 가능한 결과가 도출 되면, 이러한 ML2의 기반을 바탕으로 사업화를 위한 별도의 팀을 구성할 예정입니다. 도전적인 목표를 추구하는 ML2의 멤버가 이러한 팀에 합류하는 것도 가능하며 장려됩니다.
+  * ML2의 목표는 지속적인 학술 연구를 통해 여러 연구 기관들과 협업 체계를 갖추고 내부 역량을 축적하는 것에 있습니다. 
+    * ML2의 연구 결과 중 추후 사업에 적용이 가능한 결과가 도출 되면, 이러한 ML2의 기반을 바탕으로 사업화를 위한 별도의 팀을 구성합니다.
+    * 구성된 팀은 ML2 내의 인큐베이션 프로그램을 거쳐 독자적인 사업을 진행합니다.
+    * 도전적인 목표를 추구하는 ML2의 멤버가 이러한 팀에 합류하는 것도 가능하며 장려됩니다.
+    * 또한 ML2의 인큐베이션 프로그램을 통해 자신의 아이디어를 가다듬고 사업화하고자 하는 개인이나 팀의 ML2 합류도 환영합니다.
   * ML2는 다음과 같은 원칙을 바탕으로 연구활동을 합니다.
     * 각 연구자의 자율성과 독립성을 중요하게 생각합니다.
     * 외부 연구 그룹과의 협업을 적극적으로 추구합니다.
@@ -43,7 +46,7 @@
   * Git을 이용한 프로젝트 관리 경험
   * 자료 읽기 및 작성, 대화, 발표가 가능한 수준의 영어 사용 능력
 
-* 다음과 같은 분야에 전문 지식이 있는 분을 모십니다.
+* 다음과 같은 분야에 전문 지식이 있는 분을 우대합니다.
   * hardware design
     * RISC-V
     * FPGA
@@ -71,17 +74,22 @@
 ##### 상세정보
 * 5천만원 ~ 1억원 (협의 가능)  
 * 주요업무
-  * designing ML2's software development process and culture. 
-    * advise ML researchers and junior SWEs to learn good software engineering practices.
-  * ML/DL algorithm development.
-  * hardware-software codesign for ML/DL.
-  * full-stack ML/DL development targeting web browsers using WebAssembly, WebGL, TypeScript, TensorFlow.js, etc.
-  * development of an open-source framework for ML/DL DevOps.
-    * dataset pipelining
-    * docker management for simultaneous, large-scale model training
-    * automatic management of training queues
-    * multi-GPU and multiprocess distributed training
-    * developing and maintaining DevOps tools such as loggers and Tensorboard-like monitors. 
+  * ML2의 소프트웨어 개발문화 및 개발프로세스 확립.
+    * ML 연구자들과 junior software engineer들이 바람직한 소프트웨어 개발 방법론을 습득할 수 있도록 지도.
+  * 다음과 같은 머신러닝/딥러닝 개발 프로젝트의 주도적 진행.
+    * 새로운 머신러닝/딥러닝 알고리즘 개발.
+    * 머신러닝/딥러닝을 위한 hardware-software codesign.
+    * 웹 브라우저를 이용한 풀스택 머신러닝/딥러닝 개발 (WebAssembly, WebGL, TypeScript, TensorFlow.js).
+    * 머신러닝/딥러닝 연구개발 및 ML DevOps를 위한 오픈소스 프레임워크 개발.
+      * dataset pipelining
+      * docker management for simultaneous, large-scale model training
+      * automatic management of training queues
+      * multi-GPU and multiprocess distributed training
+      * developing and maintaining DevOps tools such as loggers and Tensorboard-like monitors. 
+    * KC 계열사의 R&D 팀과의 협업.
+      * 머신러닝/딥러닝을 도입하고자 하는 팀과의 협업을 통한 부가가치 창출.
+      * 프로젝트의 진행 및 결과에 따른 성과급 지급.
+    * 이외에도 머신러닝/딥러닝 관련 프로젝트를 발굴 및 구상하여 ML2 내부 논의를 통해 주요업무로 진행 가능.
 * 자격요건
   * 대규모 오픈소스 프로젝트 개발 경험
   * TensorFlow, PyTorch와 같은 플랫폼을 이용한 머신러닝 모델 개발 경험
