@@ -17,8 +17,11 @@
   * and in the long run (a decade or more), we
     * obtain and maintain the leadership in specific key elements of machine learning, and
     * support for and invest in entrepreneurial teams as an incubator of machine learning research and development.
-* ML2 focuses not on discovering commercial applications of its research and development, but on doing academic researches to keep close relationships with other research entities and build in-house expertises. 
-* When a business opportunity is derived from research activities of ML2, KC will form a separate team to pursue such a commercialization. ML2 members who are interested in the project will be encouraged to join the team full-time. 
+* ML2 focuses on doing academic researches to keep close relationships with other research entities and build in-house expertises. 
+  * When a business opportunity is derived from research activities of ML2, KC forms a separate team to pursue commercial applications. 
+  * The team participates an incubation program of ML2 and run an independent operation for the business venture.
+  * ML2 members who are interested in the project will be encouraged to join the team full-time. 
+  * A person or a team outside ML2 who wants to develop business ideas around machine learning can also join the incubation program.
 * ML2 works based on the following principles:
   * We value the independence of each researcher.
   * We actively seek collaborations with other research group.
