@@ -41,13 +41,21 @@
     * English for academic and business conversation, reading, and writing.
   
 * Especially interested in if you have an expertise in any of
-  * compiler design
-  * system programming
   * hardware design
+    * RISC-V
+    * FPGA
   * design automation and computer-aided design
-  * computer and network security
   * theoretical computer science
-  * graph theory
+    * compiler optimization
+    * static program analysis
+    * graph theory
+    * computational complexity theory
+  * computer systems
+    * computer architecture
+    * system programming
+    * computer networks
+    * computer security
+    * databases
 
 ### [Software Engineer](README_en.md#software-engineer)
 #### [Senior Software Engineer](README_en.md#senior-software-engineer)
@@ -61,15 +69,18 @@
 ##### Job Description
 * KRW 50M ~ 100M (negotiable)
 * What you'll do
-  * Develop new ML/DL algorithms.
-  * Full-stack ML/DL development on web browsers as a platform using WebAssembly, WebGL, TypeScript, TensorFlow.js, etc.
-  * Development of open-source framework for research, development, and DevOps of machine learning and deep learning.
-    * dataset pipelining
-    * docker management for simultaneous, large-scale model training
-    * automatic management of training queues
-    * multi-GPU and multiprocess distributed training
-    * developing and maintaining DevOps tools such as loggers and Tensorboard-like monitors. 
-* Minimum qualification
+  * Design ML2's software development process and culture. 
+    * Advise ML researchers and junior SWEs to learn good software engineering practices.
+  * Lead one or more ML/DL projects.
+    * Development of new ML/DL algorithms.
+    * Hardware-software codesign for ML/DL.
+    * Full-stack ML/DL development targeting web browsers using WebAssembly, WebGL, TypeScript, TensorFlow.js, etc.
+    * Development of an open-source framework for ML/DL DevOps.
+      * dataset pipelining
+      * docker management for simultaneous, large-scale model training
+      * automatic management of training queues
+      * multi-GPU and multiprocess distributed training
+      * developing and maintaining DevOps tools such as loggers and Tensorboard-like monitors.* Minimum qualification
   * Experience in large-codebase open-source projects.
   * Experience in developing machine learning models using open-source machine learning frameworks such as TensorFlow or PyTorch.
   * Ability to understand machine learning research papers and implement models described in the literatures.
