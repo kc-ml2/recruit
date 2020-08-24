@@ -66,8 +66,8 @@
 
 ##### About the Role
 * Join ML2 as a senior software engineer if you have a career plan such as:
-  * working as a full-time core contributor of a large codebase open source project,
   * building an expertise in ML/DL based on your experience of software engineering in other domains and becoming an entrepreneur by discovering a business item in ML/DL,
+  * working as a full-time core contributor of a large codebase open source project,
   * and/or pioneering a software engineering project in any area of ML/DL.
 
 ##### Job Description
