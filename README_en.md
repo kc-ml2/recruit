@@ -88,6 +88,9 @@
   * Experience in large-codebase open-source projects.
   * Experience in developing machine learning models using open-source machine learning frameworks such as TensorFlow or PyTorch.
   * Ability to understand machine learning research papers and implement models described in the literatures.
+* Requirements
+  * Experience of leading a software development team.
+  * Practical knowledge of developing ML models using an open-source framework such as TensorFlow or PyTorch.
 * Preferred qualification
   * Track record of self-motivated, independent, and collaborative software development.
   * Passion for becoming a core developer of an open source project with a large userbase.
