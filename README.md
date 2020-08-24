@@ -49,8 +49,9 @@
     * FPGA
   * design automation and computer-aided design
   * theoretical computer science
-    * compiler design
+    * compiler optimization
     * static program analysis
+    * graph theory
     * computational complexity theory
   * computer systems
     * computer architecture
@@ -64,15 +65,18 @@
 #### [Senior Software Engineer](README.md#senior-software-engineer)
 ##### 대상
 * 다음과 같은 커리어 플랜을 계획 중이신 분들을 염두에 두고 있습니다.
-  * 대규모 오픈 소스 프로젝트의 코어 컨트리뷰터로 풀타임으로 집중해서 활동하고자 하시는 분,
   * 다른 분야의 소프트웨어 엔지니어링 경력을 바탕으로 머신러닝/딥러닝 관련 역량을 키워서 사업 아이템을 발굴하여 창업하고자 하시는 분,
+  * 대규모 오픈 소스 프로젝트의 코어 컨트리뷰터로 풀타임으로 집중해서 활동하고자 하시는 분,
   * 그 밖에도 머신러닝을 바탕으로 창의적인 소프트웨어 엔지니어링 영역에 도전하고자 하시는 분.
 ##### 상세정보
 * 5천만원 ~ 1억원 (협의 가능)  
 * 주요업무
-  * 머신러닝/딥러닝 알고리즘 개발
-  * 웹 브라우저를 이용한 풀스택 머신러닝/딥러닝 개발 (WebAssembly, WebGL, TypeScript, TensorFlow.js)
-  * 머신러닝/딥러닝 연구개발 및 ML DevOps를 위한 오픈소스 프레임워크 개발
+  * designing ML2's software development process and culture. 
+    * advise ML researchers and junior SWEs to learn good software engineering practices.
+  * ML/DL algorithm development.
+  * hardware-software codesign for ML/DL.
+  * full-stack ML/DL development targeting web browsers using WebAssembly, WebGL, TypeScript, TensorFlow.js, etc.
+  * development of an open-source framework for ML/DL DevOps.
     * dataset pipelining
     * docker management for simultaneous, large-scale model training
     * automatic management of training queues
