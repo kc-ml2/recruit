@@ -92,16 +92,15 @@
       * 프로젝트의 진행 및 결과에 따른 성과급 지급.
     * 이외에도 머신러닝/딥러닝 관련 프로젝트를 발굴 및 구상하여 ML2 내부 논의를 통해 주요업무로 진행 가능.
 * 자격요건
-  * 대규모 오픈소스 프로젝트 개발 경험
-  * TensorFlow, PyTorch와 같은 플랫폼을 이용한 머신러닝 모델 개발 경험
-  * 머신러닝 관련 연구논문을 읽고 이해하여 해당 모델의 구현이 가능하신 분
+  * 팀 단위의 대규모 소프트웨어 개발 프로젝트 경험.
+  * TensorFlow, PyTorch와 같은 플랫폼을 이용한 머신러닝 모델 개발 경험.
 * 우대사항
-  * 자기 주도적인 소프트웨어 개발 활동을 원하시는 분
-  * 오픈소스 소프트웨어 개발 활동을 원하시는 분
-  * TensorFlow, PyTorch, scikit-learn 등의 머신러닝 플랫폼을 포함한 대규모 오픈소스 라이브러리 개발 경험
-  * Python/C/C++ 기반의 backend 개발 경험
-  * Interactive web frontend 및 시각화 개발 경험
-  * AWS등의 클라우드 컴퓨팅 DevOps 경험
+  * 자기 주도적인 소프트웨어 개발 활동을 원하시는 분.
+  * 오픈소스 소프트웨어 개발 활동을 원하시는 분.
+  * TensorFlow, PyTorch, scikit-learn 등의 머신러닝 플랫폼을 포함한 대규모 오픈소스 라이브러리 개발 경험.
+  * Python/C/C++ 기반의 backend 개발 경험.
+  * Interactive web frontend 및 시각화 개발 경험.
+  * AWS등의 클라우드 컴퓨팅 DevOps 경험.
 
 #### [Junior Software Engineer](README.md#junior-software-engineer)
 ##### 대상
