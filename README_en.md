@@ -75,7 +75,7 @@
     * Development of new ML/DL algorithms.
     * Hardware-software codesign for ML/DL.
     * Full-stack ML/DL development targeting web browsers using WebAssembly, WebGL, TypeScript, TensorFlow.js, etc.
-    * Development of an open-source framework for ML/DL DevOps.
+    * Development of an open-source framework for ML/DL researches and DevOps practices.
       * dataset pipelining
       * docker management for simultaneous, large-scale model training
       * automatic management of training queues
