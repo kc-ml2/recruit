@@ -114,7 +114,7 @@
   * 머신러닝/딥러닝 연구개발을 위한 웹 프론트엔드 유저 인터페이스 개발
   * 또는 senior software engineer의 주요 업무 중 일부 혹은 전체.
 * 자격요건
-  * 팀 단위의 소프트웨어 개발 참여 경험
+  * 팀 단위의 소프트웨어 개발 프로젝트 참여 경험
   
   
 ### [Research Scientist/Engineer](README.md#research-scientistengineer)
