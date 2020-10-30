@@ -1,9 +1,9 @@
 # ML2 Take-home project
 
-## Review, re-implement, and reproduce a research/development project.
+## 1.Review, re-implement, and reproduce a research/development project.
 
-### What to do
-* Pick one project that can demonstrate your interest and experience. 
+### 💡 What to do
+* Pick one project that can demonstrate your interest and experience.
   * If you are interested in developing a new deep learning algorithm, it can be one of the papers from the list below or any other paper you like.
   * Or any project related to one of the following topics:
     * Computer system optimization.
@@ -17,8 +17,10 @@
   * And it is totally fine to downscale the original project, i.e. reduced number of layers and weights for a deep model, or simpler requirements for a software.
 * Set your own target performance and present an experiment showing your work has achieved the desired objective.
   * You don’t have to reproduce the exact result of the original project. Toy tasks defined in the original project are good candidates.
+  
+**If you have a similar project that you've done before, you can submit it :)**  
 
-### What to submit 
+### 💡 What to submit 
 * A link to a GitHub (or a similar Git hosting service) repository containing a README.md that has
   * a concise but extensive review of the project,
   * a description of the content of the repo,
@@ -26,7 +28,7 @@
   * showcase examples,
   * and any other materials you want to describe regarding the repo.
 
-### List of deep learning papers
+#### List of deep learning papers
 
 * Hindsight Experience Replay (2017), Andrychowicz et al.,  https://arxiv.org/abs/1707.01495 
 * A simple neural network module for relational reasoning (2017), Santoro et al., https://arxiv.org/abs/1706.01427 
@@ -46,9 +48,9 @@
 * Playing atari with deep reinforcement learning (2013), V. Mnih et al., https://arxiv.org/abs/1312.5602 
 * Visualizing and understanding convolutional networks (2014), M. Zeiler and R. Fergus, http://arxiv.org/pdf/1311.2901
 
-## Portfolio
-### Goal
+## 2.Portfolio
+### 💡 Goal
 * Prepare a 15-minute presentation for past experiences in research and/or development.
 
-### What to submit
+### 💡 What to submit
 * A slide deck for the presentation.
