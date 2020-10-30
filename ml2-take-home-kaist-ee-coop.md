@@ -18,7 +18,7 @@
 * Set your own target performance and present an experiment showing your work has achieved the desired objective.
   * You don’t have to reproduce the exact result of the original project. Toy tasks defined in the original project are good candidates.
   
-**If you have a similar project that you've done before, you can submit it :)**  
+**If you have a similar project that you've done befor and can show your interests, you can submit it :)**  
 
 ### 💡 What to submit 
 * A link to a GitHub (or a similar Git hosting service) repository containing a README.md that has
