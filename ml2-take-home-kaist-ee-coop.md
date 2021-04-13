@@ -1,8 +1,8 @@
 # ML2 Take-home project
 
-## 1.Review, re-implement, and reproduce a research/development project.
+# 💡 1.Review, re-implement, and reproduce a research/development project.
 
-### 💡 What to do
+### ✔️ What to do
 * Pick one project that can demonstrate your interest and experience.
   * If you are interested in developing a new deep learning algorithm, it can be one of the papers from the list below or any other paper you like.
   * Or any project related to one of the following topics:
@@ -20,7 +20,7 @@
   
 * **If you have a similar project that you've done befor and can show your interests, you can submit it :)**  
 
-### 💡 What to submit 
+### ✔️ What to submit 
 * A link to a GitHub (or a similar Git hosting service) repository containing a README.md that has
   * a concise but extensive review of the project,
   * a description of the content of the repo,
@@ -48,9 +48,9 @@
 * Playing atari with deep reinforcement learning (2013), V. Mnih et al., https://arxiv.org/abs/1312.5602 
 * Visualizing and understanding convolutional networks (2014), M. Zeiler and R. Fergus, http://arxiv.org/pdf/1311.2901
 
-## 2.Portfolio
-### 💡 Goal
+# 💡 2.Portfolio
+### ✔️ Goal
 * Prepare a 15-minute presentation for past experiences in research and/or development.
 
-### 💡 What to submit
+### ✔️ What to submit
 * A slide deck for the presentation.
