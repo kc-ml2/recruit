@@ -6,11 +6,12 @@
 ## About KC Machine Learning Lab (ML2)
 * ML2 is an independent research organization within [KC](http://www.kct.co.kr/), a semiconductor and display solutions company.
 * ML2 focuses on machine learning research with a long-term vision, looking beyond pushing the envelope of the current state of the art and identifying topics that will open new fields of research and development.
+* Since 2018, ML2 has been focusing on
+    * performing academic researches in machine learning and develop associated technologies,
+    * collaborating with other companies and universities that are working on machine learning, 
+    * supporting university machine learning clubs, and
+    * helping KC and its affiliated companies apply machine learning to manufacturing solutions in semiconductor and display industries.
 * The roles of ML2 inside KC are
-  * in a short term (a few years), we
-    * perform academic researches in machine learning and develop associated technologies,
-    * collaborate with other companies and universities that are working on machine learning, and
-    * help KC and its affiliated companies apply machine learning to manufacturing solutions in semiconductor and display industries.
   * in a mid-term (~5 years or more), we 
     * internalize theoretical and practical knowledge of machine learning via such researches and developments, and 
     * attract and secure talents who can understand and utilize such knowledge inside KC, 
@@ -45,21 +46,46 @@
     * English for academic and business conversation, reading, and writing.
   
 * Especially interested in if you have an expertise in any of
-  * hardware design
-    * RISC-V
-    * FPGA
-  * design automation and computer-aided design
-  * theoretical computer science
-    * compiler optimization
-    * static program analysis
-    * graph theory
-    * computational complexity theory
   * computer systems
     * computer architecture
     * system programming
     * computer networks
     * computer security
     * databases
+  * theoretical computer science
+    * compiler optimization
+    * static program analysis
+    * graph theory
+    * computational complexity theory
+  * hardware design
+    * RISC-V
+    * FPGA
+  * design automation and computer-aided design
+  
+### Research Scientist/Engineer
+##### About the Role
+* Please apply for one of the research positions if you are interested in doing cutting-edge ML researches and
+  * you have an experience in ML/DL research and development,
+  * and you want a research environment with much freedom and independence. 
+  
+##### Job Description
+
+* KRW 50M ~ 100M (negotiable)
+* What you'll do
+  * Research and development in machine learning and deep learning.
+    * Publishing papers in major conferences and journals.  
+    * Software development based on open-source machine learning frameworks.
+  * Identifying new research topics in machine learning.
+  * Organizing and participating in various outreach activities to build partnerships between ML2 and other machine learning research communities.
+* Minimum qualification 
+  * Academic research experience in a quantitative field in the form of peer-reviewed journal publications.
+  * Good understanding of classical and modern machine learning models.
+  * Experience in large-codebase open-source projects of developing machine learning models using open-source machine learning frameworks such as TensorFlow or PyTorch.
+  * Ability to understand machine learning research papers and implement models described in the literatures.
+  * Comfortable with formulating mathematical ideas into computer programs.
+* Preferred qualification
+  * Track record of self-motivated, independent, and collaborative academic research and/or software development.
+  * Publications in academic journals and conferences in machine learning including NIPS, ICML, and ICLR.
 
 ### [Software Engineer](README_en.md#software-engineer)
 #### [Senior Software Engineer](README_en.md#senior-software-engineer)
@@ -114,31 +140,6 @@
   * and/or any of the projects for a senior software engineer.
 * Requirements
   * Experience of working as a member of software development team.
-  
-### Research Scientist/Engineer
-##### About the Role
-* Please apply for one of the research positions if you are interested in doing cutting-edge ML researches and
-  * you have an experience in ML/DL research and development,
-  * and you want a research environment with much freedom and independence. 
-  
-##### Job Description
-
-* KRW 50M ~ 100M (negotiable)
-* What you'll do
-  * Research and development in machine learning and deep learning.
-    * Publishing papers in major conferences and journals.  
-    * Software development based on open-source machine learning frameworks.
-  * Identifying new research topics in machine learning.
-  * Organizing and participating in various outreach activities to build partnerships between ML2 and other machine learning research communities.
-* Minimum qualification 
-  * Academic research experience in a quantitative field in the form of peer-reviewed journal publications.
-  * Good understanding of classical and modern machine learning models.
-  * Experience in large-codebase open-source projects of developing machine learning models using open-source machine learning frameworks such as TensorFlow or PyTorch.
-  * Ability to understand machine learning research papers and implement models described in the literatures.
-  * Comfortable with formulating mathematical ideas into computer programs.
-* Preferred qualification
-  * Track record of self-motivated, independent, and collaborative academic research and/or software development.
-  * Publications in academic journals and conferences in machine learning including NIPS, ICML, and ICLR.
 
 ### Research Resident
 ##### About the Role
