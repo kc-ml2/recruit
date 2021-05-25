@@ -32,8 +32,12 @@
 * More info on ML2
   * E-mail
     * contact@kc-ml2.com
-  * Research areas
-    * https://www.kc-ml2.com/research
+  * Homepage
+    * https://www.kc-ml2.com
+  * Blog
+    * https://blog.kc-ml2.com
+  * Facebook page
+    * https://web.facebook.com/KCML2
   
 ## Open roles
 
