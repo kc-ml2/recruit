@@ -49,17 +49,17 @@
   * 자료 읽기 및 작성, 대화, 발표가 가능한 수준의 영어 사용 능력
 
 * 다음과 같은 분야에 전문 지식이 있는 분을 우대합니다.
-  * theoretical computer science
-    * compiler optimization
-    * static program analysis
-    * graph theory
-    * computational complexity theory
   * computer systems
     * computer architecture
     * system programming
     * computer networks
     * computer security
     * databases
+  * theoretical computer science
+    * compiler optimization
+    * static program analysis
+    * graph theory
+    * computational complexity theory
   * hardware design
     * RISC-V
     * FPGA
